@@ -1,0 +1,17 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    height: 3opx;
+    font-size: 15px;
+    border: 1px solid gray;
+    margin: 5px;
+}
+
+.item__btn {
+   background-color: brown;
+}
+
+.item__text {
+    color: brown;
+}
